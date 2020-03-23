@@ -12,5 +12,6 @@ while(True):
     fout.write(os.urandom(file_size))
     
   print("Wrote file: " + file_name)
+  file_index += 1
   time.sleep(60*10)
   

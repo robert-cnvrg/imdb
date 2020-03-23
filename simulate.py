@@ -13,5 +13,5 @@ while(True):
     
   print("Wrote file: " + file_name)
   file_index += 1
-  time.sleep(60*10)
+  time.sleep(60*5)
   
